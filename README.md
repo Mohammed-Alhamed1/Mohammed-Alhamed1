@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Mohammed%20Alhamed&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20Real%20Products&descAlignY=58&descSize=16&descColor=aaaaaa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mohammed%20Alhamed&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%94%20Building%20Real%20Products&descAlignY=60&descSize=17&descColor=8b949e" width="100%" />
+
+<a href="https://github.com/Mohammed-Alhamed1">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=React+%26+Supabase+Developer;Building+Multilingual+Platforms;Turning+Ideas+into+Products" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -8,11 +12,11 @@
 
 ### About Me
 
-- Self-taught developer on a continuous learning journey
-- Currently focused on building full-stack web applications with React and Supabase
-- Passionate about turning real business problems into polished digital products
-- Working on multilingual platforms for Arabic-speaking markets
-- Always shipping — projects over theory
+- Self-taught developer focused on building full-stack web applications
+- Specializing in React, Supabase, and real-world product development
+- Building multilingual platforms for Arabic-speaking and international markets
+- Driven by shipping — real products over tutorials
+- Currently deepening knowledge in TypeScript, Next.js, and backend architecture
 
 ---
 
@@ -20,15 +24,17 @@
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&theme=dark" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres&theme=dark" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,postman,vite&theme=dark" />
 
 </div>
 
@@ -38,8 +44,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**alhamed-platform**](https://github.com/Mohammed-Alhamed1/alhamed-platform) | Multilingual CMS-driven heavy equipment trading platform with full admin panel, 4-language support (AR/EN/UR/ZH), Supabase backend, and RTL layout | React · Vite · Supabase · CSS |
-| **Portfolio** | Personal portfolio showcasing projects and skills | React · Vite |
+| [**alhamed-platform**](https://github.com/Mohammed-Alhamed1/alhamed-platform) | Multilingual CMS-driven heavy equipment trading platform — full admin panel, 4-language support (AR/EN/UR/ZH), RTL layout, Supabase backend | React · Vite · Supabase · CSS |
+| **Portfolio** | Personal portfolio showcasing projects and technical skills | React · Vite |
 
 ---
 
@@ -47,9 +53,14 @@
 
 <div align="center">
 
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Alhamed1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Alhamed1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Alhamed1&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Alhamed1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Mohammed-Alhamed1&theme=transparent&hide_border=true&stroke=1a1a2e&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
@@ -59,8 +70,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/YOUR_LINKEDIN)
+&nbsp;&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:YOUR_EMAIL@gmail.com)
 
 </div>
 
@@ -68,6 +80,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
