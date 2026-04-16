@@ -46,6 +46,7 @@
 |---|---|---|
 | [**alhamed-platform**](https://github.com/Mohammed-Alhamed1/alhamed-platform) | Multilingual CMS-driven heavy equipment trading platform — full admin panel, 4-language support (AR/EN/UR/ZH), RTL layout, Supabase backend | React · Vite · Supabase · CSS |
 | **Portfolio** | Personal portfolio showcasing projects and technical skills | React · Vite |
+| [**dev-intel-hub**](https://github.com/Mohammed-Alhamed1/dev-intel-hub) | Private developer news intelligence dashboard — relevance-scored articles across frontend, backend, frameworks, AI tools, and Claude updates | Next.js · TypeScript · Tailwind |
 
 ---
 
