@@ -1,86 +1,46 @@
-<div align="center">
+# Mohammed Abdullah Alhamed
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mohammed%20Alhamed&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%94%20Building%20Real%20Products&descAlignY=60&descSize=17&descColor=8b949e" width="100%" />
+**Software Engineering Student @ UMPSA | Full-Stack Developer**
 
-<a href="https://github.com/Mohammed-Alhamed1">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=React+%26+Supabase+Developer;Building+Multilingual+Platforms;Turning+Ideas+into+Products" alt="Typing SVG" />
-</a>
+I'm a Software Engineering student at Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA), Malaysia. I build web applications connecting user-friendly interfaces with backend services, databases, and administrative workflows.
 
-</div>
+- **CGPA:** 3.50 / 4.00
+- **Expected graduation:** August 2027
+- **Seeking:** Software Engineering / Full-Stack internships starting February–March 2027 (approximately 24 weeks, subject to university approval)
 
----
+## Professional Experience
 
-### About Me
+### Independent Full-Stack Developer — SatrBrand
+**Client Project | August 2026 – Present**
 
-- Self-taught developer focused on building full-stack web applications
-- Specializing in React, Supabase, and real-world product development
-- Building multilingual platforms for Arabic-speaking and international markets
-- Driven by shipping — real products over tutorials
-- Currently deepening knowledge in TypeScript, Next.js, and backend architecture
+Developing a full-stack fashion e-commerce platform for a client.
 
----
+- Building a storefront with product browsing, shopping cart, order placement, authentication, customer accounts, and order tracking.
+- Developing an admin dashboard for products, inventory, orders, customers, content, and reporting.
+- Integrating Hono APIs on Cloudflare Workers with Supabase PostgreSQL, Auth, and Storage.
 
-### Tech Stack
+**Technologies:** React Router, TypeScript, Hono, Cloudflare Workers, Supabase, PostgreSQL, HTML/CSS
 
-<div align="center">
+*Client project in active development; source code is not publicly shared.*
 
-**Frontend**
+## Featured Projects
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&theme=dark" />
+| Project | Description | Technologies |
+| --- | --- | --- |
+| [ALHAMED Heavy Equipment Platform](https://github.com/Mohammed-Alhamed1/alhamed-platform) | Multilingual trading platform with an admin dashboard for listings, content, media, and inquiries. | React, Vite, Supabase, CSS |
+| [Personal Portfolio](https://github.com/Mohammed-Alhamed1/portfolio) | Bilingual portfolio showcasing skills, experience, and projects. | Next.js, TypeScript, Tailwind CSS |
 
-**Backend & Database**
+## Technical Skills
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres&theme=dark" />
+- **Languages:** TypeScript, JavaScript, HTML, CSS
+- **Frontend:** React, React Router, Next.js, Tailwind CSS
+- **Backend & Cloud:** Hono, Cloudflare Workers, API development
+- **Databases:** PostgreSQL, Supabase
+- **Tools:** Git, GitHub, Vite
 
-**Tools & Platforms**
+## Connect
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,postman,vite&theme=dark" />
+- **LinkedIn:** [Mohammed Abdullah Alhamed](https://www.linkedin.com/in/mohammed-abdullah-alhamed-3b89b2245/)
+- **GitHub:** [Mohammed-Alhamed1](https://github.com/Mohammed-Alhamed1)
 
-</div>
-
----
-
-### Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**alhamed-platform**](https://github.com/Mohammed-Alhamed1/alhamed-platform) | Multilingual CMS-driven heavy equipment trading platform — full admin panel, 4-language support (AR/EN/UR/ZH), RTL layout, Supabase backend | React · Vite · Supabase · CSS |
-| **Portfolio** | Personal portfolio showcasing projects and technical skills | React · Vite |
-| [**dev-intel-hub**](https://github.com/Mohammed-Alhamed1/dev-intel-hub) | Private developer news intelligence dashboard — relevance-scored articles across frontend, backend, frameworks, AI tools, and Claude updates | Next.js · TypeScript · Tailwind |
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Alhamed1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Alhamed1&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Mohammed-Alhamed1&theme=transparent&hide_border=true&stroke=1a1a2e&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
-
-</div>
-
----
-
-### Contact
-
-<div align="center">
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/YOUR_LINKEDIN)
-&nbsp;&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:YOUR_EMAIL@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%" />
-
-</div>
+*Open to international Software Engineering Internship opportunities.*
